@@ -1,0 +1,8 @@
+com.example.trackmytrip.app-pngs-0 C:\Projects\TrackMyTrip\app\build\generated\res\pngs\debug
+com.example.trackmytrip.app-updated_navigation_xml-1 C:\Projects\TrackMyTrip\app\build\generated\updated_navigation_xml\debug
+com.example.trackmytrip.app-packageDebugResources-2 C:\Projects\TrackMyTrip\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.trackmytrip.app-packageDebugResources-3 C:\Projects\TrackMyTrip\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.trackmytrip.app-debug-4 C:\Projects\TrackMyTrip\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.trackmytrip.app-debug-5 C:\Projects\TrackMyTrip\app\src\debug\res
+com.example.trackmytrip.app-main-6 C:\Projects\TrackMyTrip\app\src\main\res
+gradleHome-0 C:\Users\30056891\.gradle
